@@ -1,0 +1,2 @@
+# bashscript
+bash script assignment 
